@@ -12,7 +12,7 @@ app.secret_key = 'your_secret_key_here'  # Tambahkan secret key untuk session
 app.permanent_session_lifetime = timedelta(days=1)  # Atur lifetime session
 
 # Load model
-model = tf.keras.models.load_model("batik_resnet50_model_final.h5")
+model = tf.keras.models.load_model("batik_resnet50_model.h5")
 
 # Load labels
 with open("labels.pkl", "rb") as f:
