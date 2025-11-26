@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 tensorflow
 numpy
 pillow
 python-multipart
+=======
+fastapi
+uvicorn
+tensorflow
+numpy
+pillow
+python-multipart
+>>>>>>> 7bb6398 (Add model h5 via LFS properly)
 pickle-mixin
