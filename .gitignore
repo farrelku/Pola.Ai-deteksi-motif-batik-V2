@@ -1,4 +1,2 @@
 venv/
-*.pkl
-*.h5
 dataset/
